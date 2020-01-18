@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="GAMSJavaAPI">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Resource/GAMSJavaAPI.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Resource/jxl-2.6.12.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
